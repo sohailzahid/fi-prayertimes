@@ -1,4 +1,4 @@
-# Adhan Java
+# FI Azan Times
 
 [![badge-travis][]][travis] [![badge-cov][]][codecov]
 
